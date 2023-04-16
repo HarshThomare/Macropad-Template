@@ -1,0 +1,48 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c4877035-982e-4fbe-b6ee-a346038540c3)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (polyline (pts (xy 283.21 106.68) (xy 163.83 106.68))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 65649263-b02e-4809-8068-efd9c7afc81d)
+  )
+  (polyline (pts (xy 163.83 106.68) (xy 163.83 198.12))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 671d24a7-c5dd-4368-a58b-a56187e38d3e)
+  )
+  (polyline (pts (xy 240.03 12.7) (xy 240.03 106.68))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 6c32ecae-959e-4038-849c-a9fa377901b5)
+  )
+  (polyline (pts (xy 163.83 12.7) (xy 163.83 106.68))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid ab6a5d42-0e0b-4380-85d0-e968f86b7914)
+  )
+
+  (text "ProMicro Circuit\n" (at 165.1 15.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 477bb706-539f-4bea-809f-0502e6fdbdf1)
+  )
+  (text "Reset Circuit\n" (at 242.57 15.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 501a336c-5c2f-4bac-a850-e14c1442b82c)
+  )
+  (text "Switch Matrix\n" (at 12.7 15.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a549a130-ef65-4a20-827e-28a4fc948228)
+  )
+  (text "OLED\n" (at 165.1 110.49 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f298942f-9d25-492f-9646-e2680f59b19f)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

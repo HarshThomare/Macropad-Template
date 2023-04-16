@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "art")(type "KiCad")(uri "${KIPRJMOD}/pcb_library/Footprints/art.pretty")(options "")(descr ""))
+  (lib (name "bevin")(type "KiCad")(uri "${KIPRJMOD}/pcb_library/Footprints/bevin.pretty")(options "")(descr ""))
+  (lib (name "bevin_old")(type "KiCad")(uri "${KIPRJMOD}/pcb_library/Footprints/bevin_old.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/pcb_library/Footprints/random-keyboard-parts.pretty")(options "")(descr ""))
+)
