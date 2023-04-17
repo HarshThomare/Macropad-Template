@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/pcb_library/Symbols/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/pcb_library/Symbols/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Promicro")(type "KiCad")(uri "${KIPRJMOD}/pcb_library/Symbols/Promicro.kicad_sym")(options "")(descr ""))
 )
